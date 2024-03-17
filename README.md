@@ -1,5 +1,13 @@
 Telegram Reverse Master Bot
 =====
+[![GitHub stars](https://img.shields.io/github/stars/Anonym0usWork1221/Telegram-Reverse-Master-Bot.svg?branch=master)](https://github.com/Anonym0usWork1221/Telegram-Reverse-Master-Bot/stargazers)
+<img src="https://img.shields.io/github/contributors-anon/Anonym0usWork1221/Telegram-Reverse-Master-Bot"/>
+[![GitHub forks](https://img.shields.io/github/forks/Anonym0usWork1221/Telegram-Reverse-Master-Bot.svg?branch=master)](https://github.com/Anonym0usWork1221/Telegram-Reverse-Master-Bot/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Anonym0usWork1221/Telegram-Reverse-Master-Bot.svg?branch=master)](https://github.com/Anonym0usWork1221/Telegram-Reverse-Master-Bot/issues)
+[![GitHub watchers](https://img.shields.io/github/watchers/Anonym0usWork1221/Telegram-Reverse-Master-Bot.svg?branch=master)](https://github.com/Anonym0usWork1221/Telegram-Reverse-Master-Bot/watchers)
+[![Python](https://img.shields.io/badge/language-Python%203-blue.svg)](https://www.python.org)
+[![GPT_LICENSE](https://img.shields.io/badge/license-GPL-red.svg)](https://opensource.org/licenses/)
+![code size](https://img.shields.io/github/languages/code-size/Anonym0usWork1221/Telegram-Reverse-Master-Bot?branch=master)
 
 Introduction
 -----
@@ -167,11 +175,8 @@ These prefixes include:
 3. `Modding transition details`: Transition details for modding operations.
 
 
-# Contributor
-
-<a href = "https://github.com/Anonym0usWork1221/Telegram-Reverse-Master-Bot/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=Anonym0usWork1221/Telegram-Reverse-Master-Bot"/>
-</a>
+# Contributors
+<a href="https://github.com/Anonym0usWork1221/Telegram-Reverse-Master-Bot/graphs/contributors"><img src="https://contrib.rocks/image?repo=Anonym0usWork1221/Telegram-Reverse-Master-Bot&max=240&columns=18" /></a>
 
 -----------
 Support and Contact Information

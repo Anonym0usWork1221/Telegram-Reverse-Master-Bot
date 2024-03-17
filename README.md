@@ -102,7 +102,7 @@ These attributes include:
    * `BOT_API_TOKEN`: Bot token obtained from BotFather.
    * `PLATFORM`: Operating system platform—Auto Detection.
 
-2. Author and bot version related variables:
+2. Author and bot version-related variables:
    * `BOT_AUTHORS`: Authors of the bot.
    * `BOT_AVAILABILITY`: Bot availability status.
    * `BOT_NAME`: Bot username.
@@ -193,7 +193,7 @@ following payment option:__
 **Payoneer**: `abdulmoez123456789@gmail.com`
 
 > Your support is greatly appreciated and helps me continue providing valuable assistance and resources. 
-Thank you for your consideration.
+I appreciate your consideration.
 
 
 

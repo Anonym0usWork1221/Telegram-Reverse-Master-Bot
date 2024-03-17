@@ -1,13 +1,5 @@
 Telegram Reverse Master Bot
 =====
-[![GitHub stars](https://img.shields.io/github/stars/Anonym0usWork1221/Telegram-Reverse-Master-Bot.svg)](https://github.com/Anonym0usWork1221/Telegram-Reverse-Master-Bot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Anonym0usWork1221/Telegram-Reverse-Master-Bot.svg)](https://github.com/Anonym0usWork1221/Telegram-Reverse-Master-Bot/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/Anonym0usWork1221/Telegram-Reverse-Master-Bot.svg)](https://github.com/Anonym0usWork1221/Telegram-Reverse-Master-Bot/issues)
-[![GitHub watchers](https://img.shields.io/github/watchers/Anonym0usWork1221/Telegram-Reverse-Master-Bot.svg)](https://github.com/Anonym0usWork1221/Telegram-Reverse-Master-Bot/watchers)
-[![Python](https://img.shields.io/badge/language-Python%203-blue.svg)](https://www.python.org)
-[![GPT_LICENSE](https://img.shields.io/badge/license-GPL-red.svg)](https://opensource.org/licenses/)
-![code size](https://img.shields.io/github/languages/code-size/Anonym0usWork1221/Telegram-Reverse-Master-Bot)
-
 
 Introduction
 -----
